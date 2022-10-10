@@ -4,7 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/constraint_layout_1.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/constraint_layout_2.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/constraint_layout_3.xml" value="0.3651041666666667" />
         <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/linear_layout_1.xml" value="0.36614583333333334" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/linear_layout_2.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/linear_layout_3.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/linear_layout_4.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/relative_layout_1.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningLayouts/app/src/main/res/layout/relative_layout_2.xml" value="0.3651041666666667" />
       </map>
     </option>
   </component>
