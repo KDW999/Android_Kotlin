@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearningViews</string>
+    <string name="greeting">하이요</string>
+</resources>

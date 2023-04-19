@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/padding_and_margin.xml" value="0.3619791666666667" />
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/sample_button.xml" value="0.274609375" />
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/sample_edittext.xml" value="0.274609375" />
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/sample_imageview.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/sample_text_with_values.xml" value="0.3651041666666667" />
+        <entry key="..\:/androidBasicLearning/LearningViews/app/src/main/res/layout/sample_textview.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
